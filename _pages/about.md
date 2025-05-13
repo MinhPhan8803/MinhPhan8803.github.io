@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate Computer Science student at UIUC where I currently work in Prof. [Tianyin Xu](https://tianyin.github.io)'s xLab. My research interests lie in the intersection of systems and (memory-safe) programming languages. 
+I'm an undergraduate Computer Science student at UIUC where I currently work in Prof. [Tianyin Xu's](https://tianyin.github.io) xLab. My research interests lie in the intersection of systems and (memory-safe) programming languages. 
