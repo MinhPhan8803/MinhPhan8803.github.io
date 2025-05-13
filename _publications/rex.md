@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/rex
 excerpt:
 date: 2025-01-01
-venue: USENIX Annual Technical Conference (ATC)
+venue: To appear in USENIX Annual Technical Conference (ATC)
 paperurl: 'http://MinhPhan.github.io/files/rex.pdf'
 authors: 'Jinghao Jia, Ruowen Qin, Milo Craun, Egor Lukiyanov, Ayush Bansal, Minh Phan, Michael V. Le, Hubertus Franke, Hani Jamjoom, Tianyin Xu, and Dan Williams'
 ---
