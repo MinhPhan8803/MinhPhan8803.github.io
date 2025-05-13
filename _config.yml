@@ -22,7 +22,7 @@ repository               : "MinhPhan8803/MinhPhan8803.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "minh.heic"
+  avatar           : "minh.png"
   name             : "Minh Phan"
   pronouns         : # example: "she/her"  
   bio              : "BSc in Computer Science student at UIUC"
