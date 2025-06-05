@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Minh Phan"
 title_separator          : "-"
 name                     : &name "Minh Phan"
-description              : &description "BSc in Computer Science student at UIUC"
+description              : &description "CS PhD student at UT Austin"
 url                      : https://MinhPhan8803.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MinhPhan8803/MinhPhan8803.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "minh.png"
   name             : "Minh Phan"
   pronouns         : # example: "she/her"  
-  bio              : "BSc in Computer Science student at UIUC"
-  location         : "Champaign, IL"
-  employer         : "University of Illinois Urbana-Champaign"
+  bio              : "CS PhD student at UT Austin"
+  location         : "Austin, TX"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
-  email            : "minhnp2@illinois.edu" 
+  email            : "mphan@cs.utexas.edu" 
 
   # Academic websites
   academia         : # URL
